@@ -1,0 +1,10 @@
+C:\Users\dschuh\source\repos\IGME-201\PeopleLib\bin\Debug\PeopleLib.dll
+C:\Users\dschuh\source\repos\IGME-201\PeopleLib\bin\Debug\PeopleLib.pdb
+C:\Users\dschuh\source\repos\IGME-201\PeopleLib\obj\Debug\PeopleLib.dll
+C:\Users\dschuh\source\repos\IGME-201\PeopleLib\obj\Debug\PeopleLib.pdb
+C:\Users\dschuh\source\repos\IGME-201\WindowsPeopleApp\PeopleLib\bin\Debug\PeopleLib.dll
+C:\Users\dschuh\source\repos\IGME-201\WindowsPeopleApp\PeopleLib\bin\Debug\PeopleLib.pdb
+C:\Users\dschuh\source\repos\IGME-201\WindowsPeopleApp\PeopleLib\obj\Debug\PeopleLib.csprojAssemblyReference.cache
+C:\Users\dschuh\source\repos\IGME-201\WindowsPeopleApp\PeopleLib\obj\Debug\PeopleLib.csproj.CoreCompileInputs.cache
+C:\Users\dschuh\source\repos\IGME-201\WindowsPeopleApp\PeopleLib\obj\Debug\PeopleLib.dll
+C:\Users\dschuh\source\repos\IGME-201\WindowsPeopleApp\PeopleLib\obj\Debug\PeopleLib.pdb

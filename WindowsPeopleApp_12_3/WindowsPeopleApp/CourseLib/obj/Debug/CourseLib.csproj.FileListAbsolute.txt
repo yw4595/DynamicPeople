@@ -1,0 +1,17 @@
+D:\source\CourseLib\bin\Debug\CourseLib.dll
+D:\source\CourseLib\bin\Debug\CourseLib.pdb
+D:\source\CourseLib\obj\Debug\CourseLib.csprojAssemblyReference.cache
+D:\source\CourseLib\obj\Debug\CourseLib.csproj.CoreCompileInputs.cache
+D:\source\CourseLib\obj\Debug\CourseLib.dll
+D:\source\CourseLib\obj\Debug\CourseLib.pdb
+C:\Users\dschuh\source\repos\IGME-201\CourseLib\bin\Debug\CourseLib.dll
+C:\Users\dschuh\source\repos\IGME-201\CourseLib\bin\Debug\CourseLib.pdb
+C:\Users\dschuh\source\repos\IGME-201\CourseLib\obj\Debug\CourseLib.csprojAssemblyReference.cache
+C:\Users\dschuh\source\repos\IGME-201\CourseLib\obj\Debug\CourseLib.dll
+C:\Users\dschuh\source\repos\IGME-201\CourseLib\obj\Debug\CourseLib.pdb
+C:\Users\dschuh\source\repos\IGME-201\WindowsPeopleApp\CourseLib\bin\Debug\CourseLib.dll
+C:\Users\dschuh\source\repos\IGME-201\WindowsPeopleApp\CourseLib\bin\Debug\CourseLib.pdb
+C:\Users\dschuh\source\repos\IGME-201\WindowsPeopleApp\CourseLib\obj\Debug\CourseLib.csprojAssemblyReference.cache
+C:\Users\dschuh\source\repos\IGME-201\WindowsPeopleApp\CourseLib\obj\Debug\CourseLib.dll
+C:\Users\dschuh\source\repos\IGME-201\WindowsPeopleApp\CourseLib\obj\Debug\CourseLib.pdb
+C:\Users\dschuh\source\repos\IGME-201\WindowsPeopleApp\CourseLib\obj\Debug\CourseLib.csproj.CoreCompileInputs.cache
